@@ -1,0 +1,29 @@
+img {
+	border-radius: 50 %;
+}
+
+body  {
+	background-color:pink;
+	
+}
+
+.hm {
+	color: orange;
+}
+
+.bigFont {
+	font-size:40px;
+	font:Forte;
+}
+
+#specialstyle {
+	color:orange;
+	font-size: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* סגנון נוסף לקונטיינר */
+}
